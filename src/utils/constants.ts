@@ -71,6 +71,8 @@ export const mantineTheme: MantineThemeOverride = {
       "#667A8E",
       "#566574",
     ],
+    custom: ["#8739F9", "#C651CD", "#363636", "#100F10", "#1B1B1B", "#242424"],
   },
   primaryColor: "primary",
+  colorScheme: "dark",
 };

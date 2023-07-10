@@ -3,7 +3,7 @@ import Home from "./index";
 
 const config: IRoute[] = [
   {
-    path: "/home",
+    path: "/",
     pageTitle: "Home",
     key: "home",
     exact: true,
